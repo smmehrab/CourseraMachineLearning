@@ -226,6 +226,12 @@ Now, the nummber of input variable features will be at least more than one.
 
 # Octave/Matlab Tutorial
 
+- https://www.gnu.org/software/octave/
+- <a href="others/octave.pdf">octave.pdf</a>
+- <a href="others/rob2-03-octave.pdf">rob2-03-octave.pdf</a>
+
+<br/>
+
 # Logistic Regression
 
 # Regularization
