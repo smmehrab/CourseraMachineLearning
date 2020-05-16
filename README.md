@@ -124,7 +124,9 @@ The algorithm will then try to find a similar structure on the dataset, which is
 <br/>
 <br/>
 
-# Linear Regression With One Variable
+# Univariate Linear Regression
+
+This simply, linear regression with one variable feature. 
 
 As you already know, in supervise learning, we have a dataset (also known as training set). Our job is to predict output data from the training set. 
 
@@ -142,7 +144,7 @@ y   = "output"  variable/feature
 - Hypothesis:  **h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> + &theta;<sub>1</sub> . x** <br/>
   
   which just represents a linear function. <br/>
-  &theta;<sub>0</sub>, &theta;<sub>1</sub>, ..., &theta;<sub>i</sub> = parameters
+  &theta;<sub>0</sub>, &theta;<sub>1</sub> = parameters
 
 We get to choose the parameters, or indirectly changing the
 hypothesis function according to our need. 
@@ -180,9 +182,9 @@ Then, from that graphical representation, we can easily acquire the point that m
 
 ### Gradient Descent Algorithm
 
-- Start with some combination of the parameters ( &theta;<sub>0</sub>, &theta;<sub>1</sub>, ... &theta;<sub>n</sub> )
+- Start with some combination of the parameters ( &theta;<sub>0</sub>, &theta;<sub>1</sub> )
 
-- Keep changing to reduce J( &theta;<sub>0</sub>, &theta;<sub>1</sub>, ... &theta;<sub>n</sub> ) until we hopefully end up at a minimum
+- Keep changing to reduce J( &theta;<sub>0</sub>, &theta;<sub>1</sub> ) until we hopefully end up at a minimum
 
 <img src="assets/6GradientDescent1.jpg">
 
@@ -198,11 +200,29 @@ Then, from that graphical representation, we can easily acquire the point that m
 
 <br/>
 
-# Linear Algebra Review
+# Multivariate Linear Regression
 
+Now, the nummber of input variable features will be at least more than one. 
 
+<img src="assets/7MultivariateLinearRegression3.jpg">
 
-# Linear Regression With Multiple Variables
+<img src="assets/7MultivariateLinearRegression1.jpg">
+
+<img src="assets/7MultivariateLinearRegression2.jpg">
+
+<img src="assets/7MultivariateLinearRegression4.jpg">
+
+<img src="assets/7MultivariateLinearRegression5.jpg">
+
+<img src="assets/7MultivariateLinearRegression6.jpg">
+
+<img src="assets/7MultivariateLinearRegression7.jpg">
+
+<img src="assets/7MultivariateLinearRegression8.jpg">
+
+<img src="assets/7MultivariateLinearRegression9.jpg">
+
+<br/>
 
 # Octave/Matlab Tutorial
 
