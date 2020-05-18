@@ -222,6 +222,8 @@ Now, the nummber of input variable features will be at least more than one.
 
 <img src="assets/7MultivariateLinearRegression9.jpg">
 
+<img src="assets/7MultivariateLinearRegression10.jpg">
+
 <br/>
 
 # Octave/Matlab Tutorial
@@ -232,7 +234,19 @@ Now, the nummber of input variable features will be at least more than one.
 
 <br/>
 
+# Classification
+
+<img src="assets/8Classification1.jpg">
+
+<img src="assets/8Classification2.jpg">
+
+<img src="assets/8Classification3.jpg">
+
+
+
 # Logistic Regression
+
+
 
 # Regularization
 
