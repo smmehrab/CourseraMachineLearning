@@ -124,7 +124,9 @@ The algorithm will then try to find a similar structure on the dataset, which is
 <br/>
 <br/>
 
-# Univariate Linear Regression
+# Regression
+
+## Univariate Linear Regression
 
 This simply, linear regression with one variable feature. 
 
@@ -200,7 +202,7 @@ Then, from that graphical representation, we can easily acquire the point that m
 
 <br/>
 
-# Multivariate Linear Regression
+## Multivariate Linear Regression
 
 Now, the nummber of input variable features will be at least more than one. 
 
@@ -226,14 +228,6 @@ Now, the nummber of input variable features will be at least more than one.
 
 <br/>
 
-# Octave/Matlab Tutorial
-
-- https://www.gnu.org/software/octave/
-- <a href="others/octave.pdf">octave.pdf</a>
-- <a href="others/rob2-03-octave.pdf">rob2-03-octave.pdf</a>
-
-<br/>
-
 # Classification
 
 <img src="assets/8Classification1.jpg">
@@ -242,13 +236,25 @@ Now, the nummber of input variable features will be at least more than one.
 
 <img src="assets/8Classification3.jpg">
 
+## Logistic Regression
 
-
-# Logistic Regression
+<img src="assets/9LogisticRegression1.jpg">
 
 
 
 # Regularization
+
+
+<br/>
+
+# Octave/Matlab Tutorial
+
+- https://www.gnu.org/software/octave/
+- <a href="others/octave.pdf">octave.pdf</a>
+- <a href="others/rob2-03-octave.pdf">rob2-03-octave.pdf</a>
+
+<br/>
+
 
 # Neural Networks: Representation
 
